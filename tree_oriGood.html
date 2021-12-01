@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tree</title>
+    <script type="text/javascript" src="js/renderjson.js"></script>
+  </head>
+  <body>
+    <div id="test"></div>
+    <script>
+      function addItemToChild(currentItem, targetObj) {
+        targetObj.children.forEach((child) => {
+          if (child.name == currentItem.parent) {
+            child.children.push({
+              name: currentItem.child,
+              children: [],
+            });
+          }
+        });
+      }
+
+      function findKeyValueRecursively(
+        input,
+        keyOfTheValue,
+        valueToFind,
+        childName
+      ) {
+        if (typeof keyOfTheValue !== 'string') {
+          throw new Error(
+            'Invalid parameter: keyOfTheValue has to be a string.'
+          );
+        }
+
+        if (Array.isArray(input)) {
+          return input.reduce(function (result, element) {
+            if (result === true) {
+              return true;
+            }
+            return findKeyValueRecursively(
+              element,
+              keyOfTheValue,
+              valueToFind,
+              childName
+            );
+          }, false);
+        }
+
+        //Process objects.
+        if (input !== null && typeof input === 'object') {
+          if (keyOfTheValue in input && input[keyOfTheValue] === valueToFind) {
+            input.children.push({
+              name: childName,
+              children: [],
+            });
+            return true;
+          }
+
+          for (let key in input) {
+            if (input.hasOwnProperty(key)) {
+              if (
+                findKeyValueRecursively(
+                  input[key],
+                  keyOfTheValue,
+                  valueToFind,
+                  childName
+                )
+              ) {
+                return true;
+              }
+            }
+          }
+        }
+
+        return false;
+      }
+
+      function appendChildren(item, node) {
+        node.forEach((child) => {
+          findKeyValueRecursively(child, 'name', item.parent, item.child);
+        });
+      }
+
+      function goDeep(obj, item, targetLevel) {
+        obj.children.forEach((child) => {
+          if (targetLevel > 3) {
+            goDeep(child, item, targetLevel - 1);
+          } else {
+            appendChildren(item, child.children);
+          }
+        });
+      }
+
+      function buildJsonObj(data) {
+        var tempObj = {};
+        //root level
+        tempObj = {
+          name: data[0].child,
+          children: [],
+        };
+
+        data.forEach((item) => {
+          if (item.levels == 1) {
+            tempObj.children.push({
+              name: item.child,
+              children: [],
+            });
+          } else if (item.levels == 2) {
+            appendChildren(item, tempObj.children);
+          } else {
+            goDeep(tempObj, item, item.levels);
+          }
+        });
+
+        renderjson.set_show_to_level(15);
+        document.getElementById('test').appendChild(renderjson(tempObj));
+      }
+
+      fetch('lung.json')
+        .then((res) => res.json())
+        .then((data) => buildJsonObj(data));
+    </script>
+  </body>
+</html>

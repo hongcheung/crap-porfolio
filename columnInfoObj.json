@@ -1,0 +1,354 @@
+[
+  {
+    "names": "star",
+    "labels": "Star",
+    "name_to_label": "Star",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "nct_id",
+    "labels": "NCT ID",
+    "name_to_label": "NCT ID",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "brief_title",
+    "labels": "Title",
+    "name_to_label": "Title",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "phase",
+    "labels": "Phase",
+    "name_to_label": "Phase",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "disease_names_lead",
+    "labels": "Disease(s) of Focus",
+    "name_to_label": "Disease(s) of Focus",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "lead_disease_matches",
+    "labels": "Focused Match",
+    "name_to_label": "Focused Match",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "disease_names",
+    "labels": "All Diseases",
+    "name_to_label": "All Diseases",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "disease_matches",
+    "labels": "General Match",
+    "name_to_label": "General Match",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "biomarker_exc_refined_text",
+    "labels": "Biomarker Exclusion Text",
+    "name_to_label": "Biomarker Exclusion Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "biomarker_exc_expression",
+    "labels": "Biomarker Exclusion Expression",
+    "name_to_label": "Biomarker Exclusion Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "biomarker_exc_matches",
+    "labels": "Biomarker Exclusion",
+    "name_to_label": "Biomarker Exclusion",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": true
+  },
+  {
+    "names": "biomarker_inc_refined_text",
+    "labels": "Biomarker Inclusion Text",
+    "name_to_label": "Biomarker Inclusion Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "biomarker_inc_expression",
+    "labels": "Biomarker Inclusion Expression",
+    "name_to_label": "Biomarker Inclusion Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "biomarker_inc_matches",
+    "labels": "Biomarker Inclusion",
+    "name_to_label": "Biomarker Inclusion",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "hiv_exc_refined_text",
+    "labels": "HIV Exclusion Text",
+    "name_to_label": "HIV Exclusion Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "hiv_exc_expression",
+    "labels": "HIV Exclusion Expression",
+    "name_to_label": "HIV Exclusion Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "hiv_exc_matches",
+    "labels": "HIV Exclusion",
+    "name_to_label": "HIV Exclusion",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": true
+  },
+  {
+    "names": "bmets_refined_text",
+    "labels": "Brain Mets Text",
+    "name_to_label": "Brain Mets Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "bmets_expression",
+    "labels": "Brain Mets Expression",
+    "name_to_label": "Brain Mets Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "bmets_matches",
+    "labels": "Brain Mets",
+    "name_to_label": "Brain Mets",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": true
+  },
+  {
+    "names": "pt_inc_refined_text",
+    "labels": "PT Inclusion Text",
+    "name_to_label": "PT Inclusion Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "pt_inc_expression",
+    "labels": "PT Inclusion Expression",
+    "name_to_label": "PT Inclusion Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "pt_inc_matches",
+    "labels": "PT Inclusion",
+    "name_to_label": "PT Inclusion",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "pt_exc_refined_text",
+    "labels": "PT Exclusion Text",
+    "name_to_label": "PT Exclusion Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "pt_exc_expression",
+    "labels": "PT Exclusion Expression",
+    "name_to_label": "PT Exclusion Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "pt_exc_matches",
+    "labels": "PT Exclusion",
+    "name_to_label": "PT Exclusion",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": true
+  },
+  {
+    "names": "plt_refined_text",
+    "labels": "PLT Text",
+    "name_to_label": "PLT Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "plt_expression",
+    "labels": "PLT Expression",
+    "name_to_label": "PLT Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "plt_matches",
+    "labels": "PLT",
+    "name_to_label": "PLT",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "wbc_refined_text",
+    "labels": "WBC Text",
+    "name_to_label": "WBC Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "wbc_expression",
+    "labels": "WBC Expression",
+    "name_to_label": "WBC Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "wbc_matches",
+    "labels": "WBC",
+    "name_to_label": "WBC",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "perf_refined_text",
+    "labels": "Performance Status Text",
+    "name_to_label": "Performance Status Text",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "perf_expression",
+    "labels": "Performance Status Expression",
+    "name_to_label": "Performance Status Expression",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "perf_matches",
+    "labels": "Performance Status",
+    "name_to_label": "Performance Status",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "gender_criteria",
+    "labels": "Sex Text",
+    "name_to_label": "Sex Text",
+    "hidden": true,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "gender_matches",
+    "labels": "Sex",
+    "name_to_label": "Sex",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "min_age_in_years",
+    "labels": "Min Age",
+    "name_to_label": "Min Age",
+    "hidden": true,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "max_age_in_years",
+    "labels": "Max Age",
+    "name_to_label": "Max Age",
+    "hidden": true,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "age_matches",
+    "labels": "Age",
+    "name_to_label": "Age",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "va_matches",
+    "labels": "VA Sites",
+    "name_to_label": "VA Sites",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "nih_cc_matches",
+    "labels": "NIH CC",
+    "name_to_label": "NIH CC",
+    "hidden": false,
+    "inclusion": true,
+    "exclusion": false
+  },
+  {
+    "names": "study_source",
+    "labels": "Study Source",
+    "name_to_label": "Study Source",
+    "hidden": false,
+    "inclusion": false,
+    "exclusion": false
+  },
+  {
+    "names": "clean_nct_id",
+    "labels": "CLEAN NCT ID",
+    "name_to_label": "CLEAN NCT ID",
+    "hidden": true,
+    "inclusion": false,
+    "exclusion": false
+  }
+]

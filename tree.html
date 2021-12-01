@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tree</title>
+  <script type="text/javascript" src="js/renderjson.js"></script>
+</head>
+<body>
+  <div id="test"></div>
+  <script>
+    function findKeyValueRecursively(input, keyOfTheValue, valueToFind, childName) {
+      if (input !== null && typeof input === 'object') {
+        if (keyOfTheValue in input && input[keyOfTheValue] === valueToFind) {
+          input.children.push({
+            "name": childName,
+            "children": []
+          })
+          return true;
+        }
+      }
+      return false;
+    }
+
+    function appendChildren(item, node) {
+      node.forEach(child => {
+        findKeyValueRecursively(child, 'name', item.parent, item.child)
+      })
+    }
+    
+    function goDeep(obj, item, targetLevel) {
+      obj.children.forEach(child => {
+        if (targetLevel > 3) {
+          goDeep(child, item, targetLevel - 1)
+        } else {
+          appendChildren(item, child.children)
+        }
+      })
+    }
+
+    function buildJsonObj(data) {
+      //root level
+      let tempObj = {
+        "name": data[0].child,
+        "children": []
+      }
+      
+      data.forEach(item => {
+        if (item.levels == 1) { 
+          tempObj.children.push({
+            "name": item.child, "children": []
+          })
+        } else if (item.levels == 2) { 
+          appendChildren(item, tempObj.children)
+        } else {
+          goDeep(tempObj, item, item.levels)
+        }
+      })
+
+      renderjson.set_show_to_level(20);
+      document.getElementById("test").appendChild(
+        renderjson(tempObj)
+      );
+
+      return tempObj
+    }
+
+    let finalObj;
+    fetch('solid.json').then(res => res.json())
+      .then(data => {
+        finalObj = buildJsonObj(data)
+        console.log(JSON.stringify(finalObj))
+      })
+  </script>
+</body>
+</html>

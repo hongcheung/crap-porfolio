@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Build headers</title>
+  </head>
+  <body>
+    <script>
+      fetch('trialsData.json')
+        .then((res) => res.json())
+        .then((data) => {
+          convertDataFormat(data);
+        });
+
+      function convertDataFormat(data) {
+        let trialsData = [];
+        let rows = data.nct_id.length;
+        for (let i=0; i<100; i++) {
+          let rowObj = {}
+          for (const property in data) {
+            rowObj[property] = data[property][i]
+          }
+          trialsData.push(rowObj)
+        }
+
+        console.log(JSON.stringify(trialsData))
+      }
+    </script>
+  </body>
+</html>

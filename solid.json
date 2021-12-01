@@ -1,0 +1,162 @@
+[
+  { "child": "Solid Tumor", "levels": 0, "collapsed": 1, "nodeSize": 10 },
+  
+  {
+    "parent": "Solid Tumor",
+    "child": "Extracranial Solid Tumor",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Solid Tumor",
+    "child": "Malignant Solid Tumor",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Solid Tumor",
+    "child": "Unresectable Solid Tumor",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+
+  {
+    "parent": "Extracranial Solid Tumor",
+    "child": "Metastatic Extracranial Malignant Solid Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extracranial Solid Tumor",
+    "child": "Recurrent Extracranial Malignant Solid Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extracranial Solid Tumor",
+    "child": "Refractory Extracranial Malignant Solid Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+
+  {
+    "parent": "Malignant Solid Tumor",
+    "child": "Metastatic Malignant Solid Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Solid Tumor",
+    "child": "Neoantigen-Positive Malignant Solid Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Solid Tumor",
+    "child": "Recurrent Malignant Solid Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Solid Tumor",
+    "child": "Refractory Malignant Solid Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Solid Tumor",
+    "child": "Unresectable Malignant Solid Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+
+  {
+    "parent": "Unresectable Solid Tumor",
+    "child": "Unresectable Malignant Solid Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+
+  {
+    "parent": "Metastatic Extracranial Malignant Solid Neoplasm",
+    "child": "Advanced Extracranial Malignant Solid Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Solid Tumor",
+    "child": "Advanced Malignant Solid Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Solid Tumor",
+    "child": "Locally Advanced Malignant Solid Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Solid Tumor",
+    "child": "Metastatic Extracranial Malignant Solid Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Solid Tumor",
+    "child": "Oligometastatic Malignant Solid Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Neoantigen-Positive Malignant Solid Neoplasm",
+    "child": "Shared Neoantigen-Positive Malignant Solid Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Solid Tumor",
+    "child": "Recurrent Extracranial Malignant Solid Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Malignant Solid Tumor",
+    "child": "Refractory Extracranial Malignant Solid Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Solid Tumor",
+    "child": "Advanced Extracranial Malignant Solid Neoplasm",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Extracranial Malignant Solid Neoplasm",
+    "child": "Advanced Extracranial Malignant Solid Neoplasm",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  }
+]
