@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>find obj</title>
+  </head>
+  <body>
+    <script>
+      function findKeyValueRecursively(input, keyOfTheValue, valueToFind) {
+        //Some validation
+        if (typeof keyOfTheValue !== 'string') {
+          throw new Error(
+            'Invalid parameter: keyOfTheValue has to be a string.'
+          );
+        }
+
+        //Accepts arrays of objects.
+        if (Array.isArray(input)) {
+          return input.reduce(function (result, element) {
+            if (result === true) {
+              return true;
+            }
+
+            //Recursive call.
+            return findKeyValueRecursively(element, keyOfTheValue, valueToFind);
+          }, false);
+        }
+
+        //Process objects.
+        if (input !== null && typeof input === 'object') {
+          //IMPORTANT: typeof null === 'object', this is a known JavaScript bug [1].
+
+          if (keyOfTheValue in input && input[keyOfTheValue] === valueToFind) {
+            //See [2].
+            //We found it!
+            input.children.push('very good is here')
+            return true;
+          }
+
+          //Check for other nested objects or arrays.
+          for (let key in input) {
+            //The hasOwnProperty function is used to exclude properties found in the prototype chain.
+            if (input.hasOwnProperty(key)) {
+              //Recursive call: iterates through all the object properties.
+              if (
+                findKeyValueRecursively(input[key], keyOfTheValue, valueToFind)
+              ) {
+                return true;
+              }
+            }
+          }
+        }
+
+        return false;
+      }
+
+      inputCase = [
+        {
+          a: 0,
+          b: null,
+          c: 'Hello World!',
+        },
+        {
+          a: 2,
+          b: null,
+          c: [
+            {
+              b: null,
+              c: 'Hello World! 222',
+              children: []
+            }
+          ],
+        },
+      ];
+      console.log(findKeyValueRecursively(inputCase, 'c', 'Hello World! 222'));
+      console.log('****', inputCase)
+    </script>
+  </body>
+</html>

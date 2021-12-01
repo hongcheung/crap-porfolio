@@ -1,0 +1,7295 @@
+[
+  {
+    "child": "Malignant Female Reproductive System Neoplasm",
+    "levels": 0,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Female Reproductive System Carcinoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Gestational Choriocarcinoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Fallopian Tube Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Ovarian Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Placental Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Uterine Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Vaginal Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Malignant Vulvar Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Mucosal Melanoma of the Female Genital Tract",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Refractory Malignant Female Reproductive System Neoplasm",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Female Reproductive System Neoplasm",
+    "child": "Undifferentiated Stromal Sarcoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Female Reproductive System Carcinoma",
+    "child": "Cervical Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Female Reproductive System Carcinoma",
+    "child": "Endometrial Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Female Reproductive System Carcinoma",
+    "child": "Fallopian Tube Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Female Reproductive System Carcinoma",
+    "child": "Ovarian Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Female Reproductive System Carcinoma",
+    "child": "Vaginal Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Female Reproductive System Carcinoma",
+    "child": "Vulvar Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Gestational Choriocarcinoma",
+    "child": "Placental Choriocarcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Fallopian Tube Neoplasm",
+    "child": "Fallopian Tube Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Fallopian Tube Neoplasm",
+    "child": "Fallopian Tube Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Fallopian Tube Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Metastatic Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Ovarian Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Primary Peritoneal Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Uterine Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Neoplasm",
+    "child": "Extrarenal Rhabdoid Tumor of the Ovary",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Neoplasm",
+    "child": "Malignant Ovarian Epithelial Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Neoplasm",
+    "child": "Malignant Ovarian Germ Cell Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Neoplasm",
+    "child": "Malignant Ovarian Sex Cord-Stromal Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Neoplasm",
+    "child": "Ovarian Choriocarcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Neoplasm",
+    "child": "Ovarian Sarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Placental Neoplasm",
+    "child": "Placental Choriocarcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Neoplasm",
+    "child": "Malignant Cervical Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Neoplasm",
+    "child": "Malignant Uterine Corpus Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Neoplasm",
+    "child": "Uterine Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Vaginal Neoplasm",
+    "child": "Vaginal Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Vaginal Neoplasm",
+    "child": "Vaginal Melanoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Vulvar Neoplasm",
+    "child": "Vulvar Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Malignant Female Reproductive System Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Cervical Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Endometrial Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Fallopian Tube Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Ovarian Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Vaginal Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Female Reproductive System Neoplasm",
+    "child": "Metastatic Vulvar Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Mucosal Melanoma of the Female Genital Tract",
+    "child": "Vaginal Melanoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Extrarenal Rhabdoid Tumor of the Ovary",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Female Reproductive System Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Malignant Ovarian Granulosa Cell Tumor",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Ovarian Carcinosarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Uterine (Including Endometrial) Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Malignant Female Reproductive System Neoplasm",
+    "child": "Recurrent Uterine Corpus Sarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Platinum-Refractory Malignant Female Reproductive System Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Platinum-Resistant Malignant Female Reproductive System Neoplasm",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Refractory Extrarenal Rhabdoid Tumor of the Ovary",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Refractory Female Reproductive System Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Refractory Uterine Corpus Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Stromal Sarcoma",
+    "child": "Uterine Corpus Undifferentiated Sarcoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Uterine Corpus Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Advanced Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Adenosquamous Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Cancer by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Cancer by FIGO Stage 2018",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Squamous Cell Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Endocervical Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Human Papillomavirus (HPV)-Related Cervical Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Infiltrating Cervical Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Metastatic Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Recurrent Cervical Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Refractory Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Unresectable Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Adenosquamous Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Dedifferentiated Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Transitional Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Undifferentiated Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Metastatic Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Microsatellite Stable Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Recurrent Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Refractory Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Unresectable Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extrarenal Rhabdoid Tumor of the Ovary",
+    "child": "Recurrent Extrarenal Rhabdoid Tumor of the Ovary",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extrarenal Rhabdoid Tumor of the Ovary",
+    "child": "Refractory Extrarenal Rhabdoid Tumor of the Ovary",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Fallopian Tube Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Fallopian Tube Cancer by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Fallopian Tube Transitional Cell Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Metastatic Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Platinum-Sensitive Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Recurrent Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Refractory Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Undifferentiated Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer",
+    "child": "Unresectable Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Malignant Female Reproductive System Neoplasm",
+    "child": "Locally Advanced Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Cervical Neoplasm",
+    "child": "Cervical Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Cervical Neoplasm",
+    "child": "Metastatic Malignant Neoplasm in the Uterine Cervix",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Epithelial Tumor",
+    "child": "Malignant Ovarian Clear Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Epithelial Tumor",
+    "child": "Malignant Ovarian Endometrioid Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Epithelial Tumor",
+    "child": "Malignant Ovarian Mucinous Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Epithelial Tumor",
+    "child": "Malignant Ovarian Serous Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Epithelial Tumor",
+    "child": "Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Germ Cell Tumor",
+    "child": "Malignant Ovarian Teratoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Germ Cell Tumor",
+    "child": "Ovarian Primitive Germ Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Germ Cell Tumor",
+    "child": "Stage I Ovarian Germ Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Germ Cell Tumor",
+    "child": "Stage II Ovarian Germ Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Germ Cell Tumor",
+    "child": "Stage III Ovarian Germ Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Germ Cell Tumor",
+    "child": "Stage IV Ovarian Germ Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Sex Cord-Stromal Tumor",
+    "child": "Malignant Ovarian Granulosa Cell Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Corpus Neoplasm",
+    "child": "Malignant Endometrial Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Corpus Neoplasm",
+    "child": "Malignant Uterine Corpus Mixed Epithelial and Mesenchymal Neoplasm",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Corpus Neoplasm",
+    "child": "Uterine (Including Endometrial) Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Corpus Neoplasm",
+    "child": "Uterine Sarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Advanced Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Adenosquamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Advanced Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Locally Advanced Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Metastatic Endometrial Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Fallopian Tube Carcinoma",
+    "child": "Advanced Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Fallopian Tube Carcinoma",
+    "child": "Locally Advanced Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Fallopian Tube Carcinoma",
+    "child": "Metastatic Fallopian Tube Serous Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Advanced Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Metastatic Ovarian Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Metastatic Uterine Corpus Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Advanced Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Locally Advanced Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Serous Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Undifferentiated Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Platinum-Resistant Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Advanced Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Locally Advanced Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Metastatic Vaginal Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Metastatic Vaginal Adenosquamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Metastatic Vaginal Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vulvar Carcinoma",
+    "child": "Advanced Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vulvar Carcinoma",
+    "child": "Locally Advanced Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vulvar Carcinoma",
+    "child": "Metastatic Vulvar Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Hereditary Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Malignant Ovarian Brenner Tumor",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Metastatic Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Microsatellite Stable Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Cancer by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Cancer by  and v7 Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Cancer by FIGO Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Seromucinous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Small Cell Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Squamous Cell Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Transitional Cell Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Platinum Sensitive Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Recurrent Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Refractory Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Undifferentiated Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Unresectable Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Carcinosarcoma",
+    "child": "Metastatic Ovarian Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Carcinosarcoma",
+    "child": "Recurrent Ovarian Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Choriocarcinoma",
+    "child": "Stage I Ovarian Choriocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Choriocarcinoma",
+    "child": "Stage II Ovarian Choriocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Choriocarcinoma",
+    "child": "Stage III Ovarian Choriocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Choriocarcinoma",
+    "child": "Stage IV Ovarian Choriocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Platinum-Refractory Fallopian Tube Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Refractory Malignant Female Reproductive System Neoplasm",
+    "child": "Platinum-Refractory Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Malignant Female Reproductive System Neoplasm",
+    "child": "Platinum-Resistant Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Malignant Female Reproductive System Neoplasm",
+    "child": "Platinum-Resistant Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Female Reproductive System Carcinoma",
+    "child": "Recurrent Cervical Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Female Reproductive System Carcinoma",
+    "child": "Recurrent Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Female Reproductive System Carcinoma",
+    "child": "Recurrent Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Female Reproductive System Carcinoma",
+    "child": "Recurrent Ovarian Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Female Reproductive System Carcinoma",
+    "child": "Recurrent Vaginal Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Female Reproductive System Carcinoma",
+    "child": "Recurrent Vulvar Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Uterine (Including Endometrial) Cancer",
+    "child": "Recurrent Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Uterine (Including Endometrial) Cancer",
+    "child": "Recurrent Uterine Corpus Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Uterine Corpus Sarcoma",
+    "child": "Locally Recurrent Uterine Corpus Leiomyosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Female Reproductive System Carcinoma",
+    "child": "Refractory Cervical Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Female Reproductive System Carcinoma",
+    "child": "Refractory Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Female Reproductive System Carcinoma",
+    "child": "Refractory Fallopian Tube Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Female Reproductive System Carcinoma",
+    "child": "Refractory Ovarian Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Female Reproductive System Carcinoma",
+    "child": "Refractory Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Female Reproductive System Carcinoma",
+    "child": "Refractory Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Uterine Corpus Cancer",
+    "child": "Refractory Endometrial Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Uterine Corpus Cancer",
+    "child": "Refractory Endometrial Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Carcinosarcoma",
+    "child": "Uterine Corpus Carcinosarcoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Metastatic Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Recurrent Vaginal Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Refractory Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Unresectable Vaginal Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Vaginal Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Vaginal Adenosquamous Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Vaginal Cancer by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer",
+    "child": "Vaginal Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Bartholin Gland Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Metastatic Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Recurrent Vulvar Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Refractory Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Unresectable Vulvar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Vulvar Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Vulvar Cancer by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer",
+    "child": "Vulvar Squamous Cell Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Advanced Endometrial Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Malignant Mixed Mesodermal (Mullerian) Tumor",
+    "child": "Advanced Ovarian Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Microsatellite Stable Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Uterine Corpus Cancer",
+    "child": "Advanced Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Uterine Corpus Cancer",
+    "child": "Advanced Endometrial Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Vaginal Carcinoma",
+    "child": "Advanced Vaginal Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Vaginal Carcinoma",
+    "child": "Advanced Vaginal Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Vaginal Carcinoma",
+    "child": "Advanced Vaginal Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Bartholin Gland Cancer",
+    "child": "Bartholin Gland Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Adenosquamous Cancer",
+    "child": "Metastatic Cervical Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Adenosquamous Cancer",
+    "child": "Recurrent Cervical Adenosquamous Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Adenosquamous Cancer",
+    "child": "Unresectable Cervical Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Adenosquamous Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Cancer by  Stage",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Cancer by FIGO Stage 2018",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Cervical Squamous Cell Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Endocervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Human Papillomavirus (HPV)-Related Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Infiltrating Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Metastatic Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Recurrent Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Refractory Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer",
+    "child": "Unresectable Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage 0 Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage I Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage II Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage III Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage IV Cervical Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage I Cervical Cancer FIGO 2018",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage II Cervical Cancer FIGO 2018",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage III Cervical Cancer FIGO 2018",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage IV Cervical Cancer FIGO 2018",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Cervical Squamous Cell Carcinoma In Situ",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Early Invasive Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Metastatic Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Recurrent Cervical Squamous Cell Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Unresectable Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Cervical Adenocarcinoma In Situ",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Early Invasive Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Human Papillomavirus-Independent Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Metastatic Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Recurrent Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Unresectable Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Endometrial Mixed Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Type I Endometrial Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Type II Endometrial Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Dedifferentiated Carcinoma",
+    "child": "Recurrent Endometrial Dedifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Dedifferentiated Carcinoma",
+    "child": "Refractory Endometrial Dedifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Squamous Cell Carcinoma",
+    "child": "Recurrent Endometrial Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Squamous Cell Carcinoma",
+    "child": "Refractory Endometrial Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Transitional Cell Carcinoma",
+    "child": "Recurrent Endometrial Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Transitional Cell Carcinoma",
+    "child": "Refractory Endometrial Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Undifferentiated Carcinoma",
+    "child": "Recurrent Endometrial Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Undifferentiated Carcinoma",
+    "child": "Refractory Endometrial Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Fallopian Tube Clear Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Fallopian Tube Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Fallopian Tube Mucinous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Fallopian Tube Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Adenocarcinoma",
+    "child": "Unresectable Fallopian Tube Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer by  Stage",
+    "child": "Stage I Fallopian Tube Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer by  Stage",
+    "child": "Stage II Fallopian Tube Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer by  Stage",
+    "child": "Stage III Fallopian Tube Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Cancer by  Stage",
+    "child": "Stage IV Fallopian Tube Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Transitional Cell Cancer",
+    "child": "Recurrent Fallopian Tube Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Transitional Cell Cancer",
+    "child": "Refractory Fallopian Tube Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Hereditary Ovarian Cancer",
+    "child": "BRCA-Associated Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Unresectable Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Endometrial Carcinoma",
+    "child": "Locally Advanced Endometrial Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Endometrial Neoplasm",
+    "child": "Endometrial Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Endometrial Neoplasm",
+    "child": "Uterine Corpus Endometrial Stromal Sarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Clear Cell Tumor",
+    "child": "Ovarian Clear Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Endometrioid Tumor",
+    "child": "Ovarian Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Endometrioid Tumor",
+    "child": "Ovarian Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Granulosa Cell Tumor",
+    "child": "Recurrent Malignant Ovarian Granulosa Cell Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Mucinous Tumor",
+    "child": "Ovarian Mucinous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Ovarian Serous Tumor",
+    "child": "Ovarian Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Malignant Uterine Corpus Mixed Epithelial and Mesenchymal Neoplasm",
+    "child": "Uterine Corpus Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenocarcinoma",
+    "child": "Advanced Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenocarcinoma",
+    "child": "Locally Advanced Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenosquamous Carcinoma",
+    "child": "Advanced Cervical Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Advanced Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Squamous Cell Carcinoma",
+    "child": "Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Squamous Cell Carcinoma",
+    "child": "Locally Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Advanced Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Locally Advanced Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Metastatic Endometrial Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Fallopian Tube Carcinoma",
+    "child": "Advanced Fallopian Tube Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Fallopian Tube Carcinoma",
+    "child": "Locally Advanced Fallopian Tube Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Fallopian Tube Carcinoma",
+    "child": "Metastatic Fallopian Tube Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "child": "Advanced Microsatellite Stable Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Advanced Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Locally Advanced Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Platinum-Resistant Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinosarcoma",
+    "child": "Advanced Ovarian Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Serous Adenocarcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Uterine Corpus Carcinosarcoma",
+    "child": "Advanced Endometrial Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Adenocarcinoma",
+    "child": "Advanced Vaginal Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Adenosquamous Carcinoma",
+    "child": "Advanced Vaginal Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Advanced Vaginal Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Locally Advanced Vaginal Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Metastatic Vaginal Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Metastatic Vaginal Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Carcinoma",
+    "child": "Metastatic Vaginal Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Squamous Cell Carcinoma",
+    "child": "Advanced Vaginal Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vulvar Carcinoma",
+    "child": "Advanced Vulvar Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vulvar Carcinoma",
+    "child": "Locally Advanced Vulvar Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vulvar Carcinoma",
+    "child": "Metastatic Vulvar Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Microsatellite Stable Endometrial Carcinoma",
+    "child": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Microsatellite Stable Ovarian Carcinoma",
+    "child": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Clear Cell Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Endometrioid Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Mucinous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Hereditary Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Malignant Ovarian Brenner Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Metastatic Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Microsatellite Stable Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Cancer by  Stage",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Cancer by  and v7 Stage",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Cancer by FIGO Stage",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Seromucinous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Small Cell Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Squamous Cell Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Ovarian Transitional Cell Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Platinum Sensitive Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Recurrent Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Refractory Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Undifferentiated Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer",
+    "child": "Unresectable Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage I Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage II Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage III Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage IV Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  and v7 Stage",
+    "child": "Stage III Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  and v7 Stage",
+    "child": "Stage IV Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "FIGO Stage III Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "FIGO Stage IVA Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "FIGO Stage IVB Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "Stage IV Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Primitive Germ Cell Tumor",
+    "child": "Ovarian Mixed Germ Cell Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Primitive Germ Cell Tumor",
+    "child": "Ovarian Non-Dysgerminomatous Germ Cell Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Seromucinous Carcinoma",
+    "child": "Recurrent Ovarian Seromucinous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Seromucinous Carcinoma",
+    "child": "Refractory Ovarian Seromucinous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Small Cell Cancer",
+    "child": "Ovarian Small Cell Carcinoma, Hypercalcemic Type",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Transitional Cell Cancer",
+    "child": "Recurrent Ovarian Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Transitional Cell Cancer",
+    "child": "Refractory Ovarian Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Fallopian Tube Cancer",
+    "child": "Recurrent Platinum-Resistant Fallopian Tube Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Metastatic Platinum-Resistant Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Recurrent Platinum-Resistant Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Unresectable Platinum-Resistant Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Cervical Cancer",
+    "child": "Recurrent Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Cervical Cancer",
+    "child": "Recurrent Cervical Adenosquamous Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Cervical Cancer",
+    "child": "Recurrent Cervical Squamous Cell Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Dedifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Cancer",
+    "child": "Recurrent Fallopian Tube Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Cancer",
+    "child": "Recurrent Fallopian Tube Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Cancer",
+    "child": "Recurrent Fallopian Tube Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Cancer",
+    "child": "Recurrent Platinum-Resistant Fallopian Tube Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent BRCA-Mutated Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Seromucinous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Platinum-Resistant Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Vulvar Cancer",
+    "child": "Recurrent Vulvar Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Dedifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Cancer",
+    "child": "Platinum-Refractory Fallopian Tube Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Cancer",
+    "child": "Platinum-Resistant Fallopian Tube Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Cancer",
+    "child": "Refractory Fallopian Tube Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Cancer",
+    "child": "Refractory Fallopian Tube Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Cancer",
+    "child": "Refractory Fallopian Tube Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Platinum-Refractory Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Platinum-Resistant Ovarian Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Seromucinous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Transitional Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Germ Cell Tumor",
+    "child": "Stage I Ovarian Embryonal Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Germ Cell Tumor",
+    "child": "Stage I Ovarian Teratoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Germ Cell Tumor",
+    "child": "Stage I Ovarian Yolk Sac Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Ovarian Germ Cell Tumor",
+    "child": "Stage II Ovarian Embryonal Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Ovarian Germ Cell Tumor",
+    "child": "Stage II Ovarian Yolk Sac Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Germ Cell Tumor",
+    "child": "Stage III Ovarian Embryonal Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Germ Cell Tumor",
+    "child": "Stage III Ovarian Yolk Sac Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Ovarian Germ Cell Tumor",
+    "child": "Stage IV Ovarian Embryonal Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Ovarian Germ Cell Tumor",
+    "child": "Stage IV Ovarian Yolk Sac Tumor",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Fallopian Tube Cancer",
+    "child": "Recurrent Fallopian Tube Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Fallopian Tube Cancer",
+    "child": "Refractory Fallopian Tube Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Metastatic Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Recurrent Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Refractory Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Unresectable Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Locally Advanced Unresectable Cervical Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Unresectable Cervical Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Unresectable Cervical Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Unresectable Cervical Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Fallopian Tube Carcinoma",
+    "child": "Unresectable Fallopian Tube Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Ovarian Carcinoma",
+    "child": "Unresectable Ovarian Serous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Ovarian Carcinoma",
+    "child": "Unresectable Ovarian Undifferentiated Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Ovarian Carcinoma",
+    "child": "Unresectable Platinum-Resistant Ovarian Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Vulvar Carcinoma",
+    "child": "Unresectable Vulvar Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine (Including Endometrial) Cancer",
+    "child": "Advanced Uterine Corpus Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine (Including Endometrial) Cancer",
+    "child": "Endometrial Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine (Including Endometrial) Cancer",
+    "child": "Recurrent Uterine (Including Endometrial) Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine (Including Endometrial) Cancer",
+    "child": "Refractory Uterine Corpus Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine (Including Endometrial) Cancer",
+    "child": "Uterine Corpus Cancer by  Stage",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine (Including Endometrial) Cancer",
+    "child": "Uterine Corpus Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Carcinosarcoma",
+    "child": "Metastatic Uterine Corpus Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Carcinosarcoma",
+    "child": "Recurrent Uterine Corpus Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Carcinosarcoma",
+    "child": "Refractory Endometrial Carcinosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Sarcoma",
+    "child": "Recurrent Uterine Corpus Sarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Sarcoma",
+    "child": "Uterine Corpus Endometrial Stromal Sarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Sarcoma",
+    "child": "Uterine Corpus Leiomyosarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Sarcoma",
+    "child": "Uterine Corpus Sarcoma by  Stage",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Sarcoma",
+    "child": "Uterine Corpus Undifferentiated Sarcoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Adenocarcinoma",
+    "child": "Metastatic Vaginal Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Adenosquamous Cancer",
+    "child": "Metastatic Vaginal Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer by  Stage",
+    "child": "Stage I Vaginal Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer by  Stage",
+    "child": "Stage II Vaginal Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer by  Stage",
+    "child": "Stage III Vaginal Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Cancer by  Stage",
+    "child": "Stage IV Vaginal Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Squamous Cell Carcinoma",
+    "child": "Metastatic Vaginal Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vaginal Squamous Cell Carcinoma",
+    "child": "Vaginal Squamous Cell Cancer, NOS",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer by  Stage",
+    "child": "Stage I Vulvar Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer by  Stage",
+    "child": "Stage II Vulvar Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer by  Stage",
+    "child": "Stage III Vulvar Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Cancer by  Stage",
+    "child": "Stage IV Vulvar Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Squamous Cell Cancer",
+    "child": "Metastatic Vulvar Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Squamous Cell Cancer",
+    "child": "Recurrent Vulvar Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Vulvar Squamous Cell Cancer",
+    "child": "Unresectable Vulvar Squamous Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Microsatellite Stable Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Uterine Corpus Cancer",
+    "child": "Advanced Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Uterine Corpus Cancer",
+    "child": "Advanced Endometrial Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Vaginal Carcinoma",
+    "child": "Advanced Vaginal Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Vaginal Carcinoma",
+    "child": "Advanced Vaginal Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Vaginal Carcinoma",
+    "child": "Advanced Vaginal Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "BRCA-Associated Ovarian Carcinoma",
+    "child": "Recurrent BRCA-Mutated Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Adenosquamous Cancer",
+    "child": "Metastatic Cervical Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Adenosquamous Cancer",
+    "child": "Recurrent Cervical Adenosquamous Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Adenosquamous Cancer",
+    "child": "Unresectable Cervical Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage 0 Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage I Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage II Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage III Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by  Stage",
+    "child": "Stage IV Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage I Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage II Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage III Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Cancer by FIGO Stage 2018",
+    "child": "Stage IV Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Cervical Squamous Cell Carcinoma In Situ",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Early Invasive Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Metastatic Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Recurrent Cervical Squamous Cell Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Cervical Squamous Cell Cancer",
+    "child": "Unresectable Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Cervical Adenocarcinoma In Situ",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Early Invasive Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Human Papillomavirus-Independent Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Metastatic Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Recurrent Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endocervical Cancer",
+    "child": "Unresectable Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Adenosquamous Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Dedifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Transitional Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Endometrial Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Metastatic Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Microsatellite Stable Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Recurrent Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Refractory Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Cancer",
+    "child": "Unresectable Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mixed Cell Adenocarcinoma",
+    "child": "Recurrent Endometrial Mixed Epithelial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mixed Cell Adenocarcinoma",
+    "child": "Refractory Endometrial Mixed Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage III Ovarian Cancer",
+    "child": "FIGO Stage IIIA Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage III Ovarian Cancer",
+    "child": "FIGO Stage IIIB Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage III Ovarian Cancer",
+    "child": "FIGO Stage IIIC Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Clear Cell Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Clear Cell Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Endometrioid Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Endometrioid Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Mucinous Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Mucinous Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Fallopian Tube Serous Adenocarcinoma",
+    "child": "High Grade Fallopian Tube Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Hereditary Ovarian Cancer",
+    "child": "BRCA-Associated Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Human Papillomavirus-Independent Cervical Adenocarcinoma",
+    "child": "Human Papillomavirus-Independent Cervical Adenocarcinoma, Clear Cell-Type",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Unresectable Cervical Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Endometrial Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Endometrial Carcinoma",
+    "child": "Locally Advanced Endometrial Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenocarcinoma",
+    "child": "Advanced Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenocarcinoma",
+    "child": "Locally Advanced Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenosquamous Carcinoma",
+    "child": "Advanced Cervical Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Advanced Cervical Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Carcinoma",
+    "child": "Metastatic Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Squamous Cell Carcinoma",
+    "child": "Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Squamous Cell Carcinoma",
+    "child": "Locally Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Serous Adenocarcinoma",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "child": "Advanced Microsatellite Stable Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Advanced Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Locally Advanced Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinoma",
+    "child": "Metastatic Platinum-Resistant Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Serous Adenocarcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Uterine Corpus Carcinosarcoma",
+    "child": "Advanced Endometrial Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Adenocarcinoma",
+    "child": "Advanced Vaginal Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Adenosquamous Carcinoma",
+    "child": "Advanced Vaginal Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Vaginal Squamous Cell Carcinoma",
+    "child": "Advanced Vaginal Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Microsatellite Stable Ovarian Carcinoma",
+    "child": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage I Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage II Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage III Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  Stage",
+    "child": "Stage IV Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  and v7 Stage",
+    "child": "Stage III Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by  and v7 Stage",
+    "child": "Stage IV Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "FIGO Stage III Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "FIGO Stage IVA Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "FIGO Stage IVB Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Cancer by FIGO Stage",
+    "child": "Stage IV Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Carcinosarcoma",
+    "child": "Metastatic Ovarian Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Carcinosarcoma",
+    "child": "Recurrent Ovarian Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Clear Cell Adenocarcinoma",
+    "child": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Clear Cell Adenocarcinoma",
+    "child": "Recurrent Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Clear Cell Adenocarcinoma",
+    "child": "Refractory Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Endometrioid Adenocarcinoma",
+    "child": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Endometrioid Adenocarcinoma",
+    "child": "Recurrent Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Endometrioid Adenocarcinoma",
+    "child": "Refractory Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Mucinous Adenocarcinoma",
+    "child": "Recurrent Ovarian Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Mucinous Adenocarcinoma",
+    "child": "Refractory Ovarian Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Non-Dysgerminomatous Germ Cell Tumor",
+    "child": "Ovarian Embryonal Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Non-Dysgerminomatous Germ Cell Tumor",
+    "child": "Ovarian Yolk Sac Tumor",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Seromucinous Carcinoma",
+    "child": "Recurrent Ovarian Seromucinous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Seromucinous Carcinoma",
+    "child": "Refractory Ovarian Seromucinous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Invasive Ovarian Micropapillary Serous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Metastatic Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Refractory Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Unresectable Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Small Cell Cancer",
+    "child": "Ovarian Small Cell Carcinoma, Hypercalcemic Type",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Transitional Cell Cancer",
+    "child": "Recurrent Ovarian Transitional Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Transitional Cell Cancer",
+    "child": "Refractory Ovarian Transitional Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Fallopian Tube Cancer",
+    "child": "Recurrent Platinum-Resistant Fallopian Tube Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Metastatic Platinum-Resistant Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Recurrent Platinum-Resistant Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Unresectable Platinum-Resistant Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Cervical Cancer",
+    "child": "Recurrent Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Cervical Cancer",
+    "child": "Recurrent Cervical Adenosquamous Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Cervical Cancer",
+    "child": "Recurrent Cervical Squamous Cell Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Mixed Epithelial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Adenocarcinoma",
+    "child": "Recurrent Fallopian Tube Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Fallopian Tube Adenocarcinoma",
+    "child": "Recurrent High Grade Fallopian Tube Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent BRCA-Mutated Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Seromucinous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Transitional Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Cancer",
+    "child": "Recurrent Platinum-Resistant Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Uterine (Including Endometrial) Cancer",
+    "child": "Recurrent Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Uterine (Including Endometrial) Cancer",
+    "child": "Recurrent Uterine Corpus Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Uterine Corpus Sarcoma",
+    "child": "Locally Recurrent Uterine Corpus Leiomyosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Mixed Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Adenocarcinoma",
+    "child": "Refractory Fallopian Tube Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Fallopian Tube Adenocarcinoma",
+    "child": "Refractory High Grade Fallopian Tube Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Platinum-Refractory Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Platinum-Resistant Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Seromucinous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Transitional Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Carcinoma",
+    "child": "Refractory Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Uterine Corpus Cancer",
+    "child": "Refractory Endometrial Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Uterine Corpus Cancer",
+    "child": "Refractory Endometrial Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage 0 Cervical Cancer",
+    "child": "Cervical Adenocarcinoma In Situ",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage 0 Cervical Cancer",
+    "child": "Cervical Squamous Cell Carcinoma In Situ",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer",
+    "child": "Stage IA Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer",
+    "child": "Stage IB Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer FIGO 2018",
+    "child": "Stage IA Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer FIGO 2018",
+    "child": "Stage IB Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Fallopian Tube Cancer",
+    "child": "Stage IA Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Fallopian Tube Cancer",
+    "child": "Stage IB Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Fallopian Tube Cancer",
+    "child": "Stage IC Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Cancer",
+    "child": "Stage IA Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Cancer",
+    "child": "Stage IB Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Cancer",
+    "child": "Stage IC Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Vaginal Cancer",
+    "child": "Stage IA Vaginal Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Vaginal Cancer",
+    "child": "Stage IB Vaginal Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Vulvar Cancer",
+    "child": "Stage IA Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Vulvar Cancer",
+    "child": "Stage IB Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer",
+    "child": "Stage IIA Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer",
+    "child": "Stage IIB Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer FIGO 2018",
+    "child": "Stage IIA Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer FIGO 2018",
+    "child": "Stage IIB Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Fallopian Tube Cancer",
+    "child": "Stage IIA Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Fallopian Tube Cancer",
+    "child": "Stage IIB Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Ovarian Cancer",
+    "child": "Stage IIA Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Ovarian Cancer",
+    "child": "Stage IIB Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Vaginal Cancer",
+    "child": "Stage IIA Vaginal Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Vaginal Cancer",
+    "child": "Stage IIB Vaginal Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer",
+    "child": "Stage IIIA Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer",
+    "child": "Stage IIIB Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer FIGO 2018",
+    "child": "Stage IIIA Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer FIGO 2018",
+    "child": "Stage IIIB Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer FIGO 2018",
+    "child": "Stage IIIC Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Fallopian Tube Cancer",
+    "child": "Stage IIIA Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Fallopian Tube Cancer",
+    "child": "Stage IIIB Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Fallopian Tube Cancer",
+    "child": "Stage IIIC Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Cancer",
+    "child": "Stage IIIA Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Cancer",
+    "child": "Stage IIIB Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Cancer",
+    "child": "Stage IIIC Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Vulvar Cancer",
+    "child": "Stage IIIA Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Vulvar Cancer",
+    "child": "Stage IIIB Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Vulvar Cancer",
+    "child": "Stage IIIC Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Cervical Cancer",
+    "child": "Stage IVA Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Cervical Cancer",
+    "child": "Stage IVB Cervical Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Cervical Cancer FIGO 2018",
+    "child": "Stage IVA Cervical Cancer FIGO 2018",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Fallopian Tube Cancer",
+    "child": "Stage IVA Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Fallopian Tube Cancer",
+    "child": "Stage IVB Fallopian Tube Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Ovarian Cancer",
+    "child": "Stage IVA Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Ovarian Cancer",
+    "child": "Stage IVB Ovarian Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Vaginal Cancer",
+    "child": "Stage IVA Vaginal Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Vaginal Cancer",
+    "child": "Stage IVB Vaginal Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Vulvar Cancer",
+    "child": "Stage IVA Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Vulvar Cancer",
+    "child": "Stage IVB Vulvar Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type I Endometrial Adenocarcinoma",
+    "child": "Endometrial Endometrioid Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type I Endometrial Adenocarcinoma",
+    "child": "Endometrial Mucinous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type II Endometrial Adenocarcinoma",
+    "child": "Endometrial Clear Cell Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type II Endometrial Adenocarcinoma",
+    "child": "Endometrial Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Metastatic Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Recurrent Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Refractory Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Undifferentiated Ovarian Cancer",
+    "child": "Unresectable Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Locally Advanced Unresectable Cervical Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Unresectable Cervical Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Unresectable Cervical Adenosquamous Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Cervical Carcinoma",
+    "child": "Unresectable Cervical Squamous Cell Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Fallopian Tube Adenocarcinoma",
+    "child": "Unresectable Fallopian Tube Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Ovarian Carcinoma",
+    "child": "Unresectable Ovarian Serous Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Ovarian Carcinoma",
+    "child": "Unresectable Ovarian Undifferentiated Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Ovarian Carcinoma",
+    "child": "Unresectable Platinum-Resistant Ovarian Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Cancer by  Stage",
+    "child": "Stage I Uterine (including Endometrial) Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Cancer by  Stage",
+    "child": "Stage II Uterine (including Endometrial) Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Cancer by  Stage",
+    "child": "Stage III Uterine (including Endometrial) Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Cancer by  Stage",
+    "child": "Stage IV Uterine (including Endometrial) Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Carcinosarcoma",
+    "child": "Metastatic Uterine Corpus Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Carcinosarcoma",
+    "child": "Recurrent Uterine Corpus Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Carcinosarcoma",
+    "child": "Refractory Endometrial Carcinosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Endometrial Stromal Sarcoma",
+    "child": "Uterine Corpus High Grade Endometrial Stromal Sarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Leiomyosarcoma",
+    "child": "Locally Recurrent Uterine Corpus Leiomyosarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Leiomyosarcoma",
+    "child": "Uterine Corpus Leiomyosarcoma by  Stage",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Sarcoma by  Stage",
+    "child": "Stage IV Uterine Sarcoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Sarcoma by  Stage",
+    "child": "Uterine Corpus Leiomyosarcoma by  Stage",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Adenosquamous Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Cervical Carcinoma",
+    "child": "Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Microsatellite Stable Ovarian Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Ovarian Carcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "BRCA-Associated Ovarian Carcinoma",
+    "child": "Recurrent BRCA-Mutated Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Endometrial Mixed Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Type I Endometrial Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Adenocarcinoma",
+    "child": "Type II Endometrial Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Clear Cell Adenocarcinoma",
+    "child": "Recurrent Endometrial Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Clear Cell Adenocarcinoma",
+    "child": "Refractory Endometrial Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Dedifferentiated Carcinoma",
+    "child": "Recurrent Endometrial Dedifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Dedifferentiated Carcinoma",
+    "child": "Refractory Endometrial Dedifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Grade 3 Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Low Grade Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Recurrent Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Refractory Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mucinous Adenocarcinoma",
+    "child": "FIGO Grade 1 Endometrial Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mucinous Adenocarcinoma",
+    "child": "Recurrent Endometrial Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mucinous Adenocarcinoma",
+    "child": "Refractory Endometrial Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Serous Adenocarcinoma",
+    "child": "Metastatic Endometrial Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Serous Adenocarcinoma",
+    "child": "Recurrent Endometrial Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Serous Adenocarcinoma",
+    "child": "Refractory Endometrial Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Squamous Cell Carcinoma",
+    "child": "Recurrent Endometrial Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Squamous Cell Carcinoma",
+    "child": "Refractory Endometrial Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Transitional Cell Carcinoma",
+    "child": "Recurrent Endometrial Transitional Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Transitional Cell Carcinoma",
+    "child": "Refractory Endometrial Transitional Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Undifferentiated Carcinoma",
+    "child": "Recurrent Endometrial Undifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Undifferentiated Carcinoma",
+    "child": "Refractory Endometrial Undifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage III Ovarian Cancer",
+    "child": "FIGO Stage IIIA Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage III Ovarian Cancer",
+    "child": "FIGO Stage IIIB Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage III Ovarian Cancer",
+    "child": "FIGO Stage IIIC Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA Ovarian Cancer",
+    "child": "FIGO Stage IIIA1 Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA Ovarian Cancer",
+    "child": "FIGO Stage IIIA2 Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Fallopian Tube Serous Adenocarcinoma",
+    "child": "Metastatic Fallopian Tube Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Fallopian Tube Serous Adenocarcinoma",
+    "child": "Recurrent High Grade Fallopian Tube Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Fallopian Tube Serous Adenocarcinoma",
+    "child": "Refractory High Grade Fallopian Tube Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Fallopian Tube Serous Adenocarcinoma",
+    "child": "Unresectable Fallopian Tube Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Ovarian Serous Adenocarcinoma",
+    "child": "Refractory High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Human Papillomavirus-Independent Cervical Adenocarcinoma",
+    "child": "Human Papillomavirus-Independent Cervical Adenocarcinoma, Clear Cell-Type",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Invasive Ovarian Micropapillary Serous Carcinoma",
+    "child": "Recurrent Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Invasive Ovarian Micropapillary Serous Carcinoma",
+    "child": "Refractory Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Cervical Carcinoma",
+    "child": "Locally Advanced Unresectable Cervical Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Endometrial Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenocarcinoma",
+    "child": "Advanced Cervical Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenocarcinoma",
+    "child": "Locally Advanced Cervical Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Adenosquamous Carcinoma",
+    "child": "Advanced Cervical Adenosquamous Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Squamous Cell Carcinoma",
+    "child": "Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Cervical Squamous Cell Carcinoma",
+    "child": "Locally Advanced Cervical Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Advanced Endometrial Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Locally Advanced Endometrial Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Metastatic Endometrial Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Carcinoma",
+    "child": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Serous Adenocarcinoma",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Microsatellite Stable Ovarian Carcinoma",
+    "child": "Advanced Microsatellite Stable Ovarian Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Carcinosarcoma",
+    "child": "Advanced Ovarian Carcinosarcoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Serous Adenocarcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Uterine Corpus Carcinosarcoma",
+    "child": "Advanced Endometrial Carcinosarcoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Microsatellite Stable Endometrial Carcinoma",
+    "child": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Clear Cell Adenocarcinoma",
+    "child": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Clear Cell Adenocarcinoma",
+    "child": "Recurrent Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Clear Cell Adenocarcinoma",
+    "child": "Refractory Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Embryonal Carcinoma",
+    "child": "Stage I Ovarian Embryonal Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Embryonal Carcinoma",
+    "child": "Stage II Ovarian Embryonal Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Embryonal Carcinoma",
+    "child": "Stage III Ovarian Embryonal Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Embryonal Carcinoma",
+    "child": "Stage IV Ovarian Embryonal Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Endometrioid Adenocarcinoma",
+    "child": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Endometrioid Adenocarcinoma",
+    "child": "Recurrent Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Endometrioid Adenocarcinoma",
+    "child": "Refractory Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Mucinous Adenocarcinoma",
+    "child": "Recurrent Ovarian Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Mucinous Adenocarcinoma",
+    "child": "Refractory Ovarian Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Invasive Ovarian Micropapillary Serous Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Metastatic Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Refractory Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Serous Adenocarcinoma",
+    "child": "Unresectable Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Yolk Sac Tumor",
+    "child": "Stage I Ovarian Yolk Sac Tumor",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Yolk Sac Tumor",
+    "child": "Stage II Ovarian Yolk Sac Tumor",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Yolk Sac Tumor",
+    "child": "Stage III Ovarian Yolk Sac Tumor",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Ovarian Yolk Sac Tumor",
+    "child": "Stage IV Ovarian Yolk Sac Tumor",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Metastatic Platinum-Resistant Ovarian Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Recurrent Platinum-Resistant Ovarian Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Platinum-Resistant Ovarian Cancer",
+    "child": "Unresectable Platinum-Resistant Ovarian Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Dedifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Transitional Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Carcinoma",
+    "child": "Recurrent Endometrial Undifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Adenocarcinoma",
+    "child": "Recurrent Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Dedifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Squamous Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Transitional Cell Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Carcinoma",
+    "child": "Refractory Endometrial Undifferentiated Carcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Clear Cell Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Endometrioid Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Mucinous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Adenocarcinoma",
+    "child": "Refractory Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Serous Adenocarcinoma",
+    "child": "Refractory High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Serous Adenocarcinoma",
+    "child": "Refractory Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage 0 Cervical Cancer",
+    "child": "Cervical Adenocarcinoma In Situ",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage 0 Cervical Cancer",
+    "child": "Cervical Squamous Cell Carcinoma In Situ",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer",
+    "child": "Stage IA Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer",
+    "child": "Stage IB Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer FIGO 2018",
+    "child": "Stage IA Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Cervical Cancer FIGO 2018",
+    "child": "Stage IB Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Cancer",
+    "child": "Stage IA Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Cancer",
+    "child": "Stage IB Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Ovarian Cancer",
+    "child": "Stage IC Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Uterine (including Endometrial) Cancer",
+    "child": "Stage IA Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Uterine (including Endometrial) Cancer",
+    "child": "Stage IB Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer",
+    "child": "Stage IA1 Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer",
+    "child": "Stage IA2 Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer FIGO 2018",
+    "child": "Stage IA1 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer FIGO 2018",
+    "child": "Stage IA2 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer",
+    "child": "Stage IB1 Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer",
+    "child": "Stage IB2 Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer FIGO 2018",
+    "child": "Stage IB1 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer FIGO 2018",
+    "child": "Stage IB2 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer FIGO 2018",
+    "child": "Stage IB3 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer",
+    "child": "Stage IIA Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer",
+    "child": "Stage IIB Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer FIGO 2018",
+    "child": "Stage IIA Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Cervical Cancer FIGO 2018",
+    "child": "Stage IIB Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Ovarian Cancer",
+    "child": "Stage IIA Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Ovarian Cancer",
+    "child": "Stage IIB Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer",
+    "child": "Stage IIA1 Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer",
+    "child": "Stage IIA2 Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer FIGO 2018",
+    "child": "Stage IIA1 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer FIGO 2018",
+    "child": "Stage IIA2 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer",
+    "child": "Stage IIIA Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer",
+    "child": "Stage IIIB Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer FIGO 2018",
+    "child": "Stage IIIA Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer FIGO 2018",
+    "child": "Stage IIIB Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Cervical Cancer FIGO 2018",
+    "child": "Stage IIIC Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Cancer",
+    "child": "Stage IIIA Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Cancer",
+    "child": "Stage IIIB Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Ovarian Cancer",
+    "child": "Stage IIIC Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Uterine (including Endometrial) Cancer",
+    "child": "Stage IIIA Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Uterine (including Endometrial) Cancer",
+    "child": "Stage IIIB Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Uterine (including Endometrial) Cancer",
+    "child": "Stage IIIC Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Fallopian Tube Cancer",
+    "child": "Stage IIIA1 Fallopian Tube Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Fallopian Tube Cancer",
+    "child": "Stage IIIA2 Fallopian Tube Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Ovarian Cancer",
+    "child": "Stage IIIA1 Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Ovarian Cancer",
+    "child": "Stage IIIA2 Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIC Cervical Cancer FIGO 2018",
+    "child": "Stage IIIC1 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIC Cervical Cancer FIGO 2018",
+    "child": "Stage IIIC2 Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Cervical Cancer",
+    "child": "Stage IVA Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Cervical Cancer",
+    "child": "Stage IVB Cervical Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Cervical Cancer FIGO 2018",
+    "child": "Stage IVA Cervical Cancer FIGO 2018",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Ovarian Cancer",
+    "child": "Stage IVA Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Ovarian Cancer",
+    "child": "Stage IVB Ovarian Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Uterine (including Endometrial) Cancer",
+    "child": "Stage IVA Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Uterine (including Endometrial) Cancer",
+    "child": "Stage IVB Uterine (including Endometrial) Cancer",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Uterine Sarcoma",
+    "child": "Stage IVA Uterine Sarcoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Uterine Sarcoma",
+    "child": "Stage IVB Uterine Sarcoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Leiomyosarcoma by  Stage",
+    "child": "Stage III Uterine Corpus Leiomyosarcoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Uterine Corpus Leiomyosarcoma by  Stage",
+    "child": "Stage IV Uterine Corpus Leiomyosarcoma",
+    "levels": 6,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mixed Cell Adenocarcinoma",
+    "child": "Recurrent Endometrial Mixed Epithelial Carcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mixed Cell Adenocarcinoma",
+    "child": "Refractory Endometrial Mixed Cell Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA Ovarian Cancer",
+    "child": "FIGO Stage IIIA1 Ovarian Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA Ovarian Cancer",
+    "child": "FIGO Stage IIIA2 Ovarian Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA1 Ovarian Cancer",
+    "child": "FIGO Stage IIIA1(i) Ovarian Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA1 Ovarian Cancer",
+    "child": "FIGO Stage IIIA1(ii) Ovarian Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "High Grade Ovarian Serous Adenocarcinoma",
+    "child": "Refractory High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Invasive Ovarian Micropapillary Serous Carcinoma",
+    "child": "Recurrent Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Invasive Ovarian Micropapillary Serous Carcinoma",
+    "child": "Refractory Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Endometrial Carcinoma",
+    "child": "Locally Advanced Endometrial Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Low Grade Endometrial Endometrioid Adenocarcinoma",
+    "child": "FIGO Grade 1 Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Low Grade Endometrial Endometrioid Adenocarcinoma",
+    "child": "FIGO Grade 2 Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Adenocarcinoma",
+    "child": "Metastatic Endometrial Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Serous Adenocarcinoma",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Microsatellite Stable Endometrial Carcinoma",
+    "child": "Advanced Microsatellite Stable Endometrial Carcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Clear Cell Adenocarcinoma",
+    "child": "Advanced Ovarian Clear Cell Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Endometrioid Adenocarcinoma",
+    "child": "Advanced Ovarian Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Ovarian Serous Adenocarcinoma",
+    "child": "Advanced Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Clear Cell Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Mixed Epithelial Carcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Mucinous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Recurrent Endometrial Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Ovarian Serous Adenocarcinoma",
+    "child": "Recurrent Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Clear Cell Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Mixed Cell Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Mucinous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Refractory Endometrial Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Serous Adenocarcinoma",
+    "child": "Refractory High Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Ovarian Serous Adenocarcinoma",
+    "child": "Refractory Low Grade Ovarian Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer",
+    "child": "Stage IA1 Cervical Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer",
+    "child": "Stage IA2 Cervical Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer FIGO 2018",
+    "child": "Stage IA1 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Cervical Cancer FIGO 2018",
+    "child": "Stage IA2 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer",
+    "child": "Stage IB1 Cervical Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer",
+    "child": "Stage IB2 Cervical Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer FIGO 2018",
+    "child": "Stage IB1 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer FIGO 2018",
+    "child": "Stage IB2 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Cervical Cancer FIGO 2018",
+    "child": "Stage IB3 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer",
+    "child": "Stage IIA1 Cervical Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer",
+    "child": "Stage IIA2 Cervical Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer FIGO 2018",
+    "child": "Stage IIA1 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Cervical Cancer FIGO 2018",
+    "child": "Stage IIA2 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Uterine Corpus Leiomyosarcoma",
+    "child": "Stage IIIA Uterine Corpus Leiomyosarcoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Uterine Corpus Leiomyosarcoma",
+    "child": "Stage IIIB Uterine Corpus Leiomyosarcoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Uterine Corpus Leiomyosarcoma",
+    "child": "Stage IIIC Uterine Corpus Leiomyosarcoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Ovarian Cancer",
+    "child": "Stage IIIA1 Ovarian Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Ovarian Cancer",
+    "child": "Stage IIIA2 Ovarian Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIC Cervical Cancer FIGO 2018",
+    "child": "Stage IIIC1 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIC Cervical Cancer FIGO 2018",
+    "child": "Stage IIIC2 Cervical Cancer FIGO 2018",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIC Uterine (including Endometrial) Cancer",
+    "child": "Stage IIIC1 Uterine (including Endometrial) Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIC Uterine (including Endometrial) Cancer",
+    "child": "Stage IIIC2 Uterine (including Endometrial) Cancer",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Uterine Corpus Leiomyosarcoma",
+    "child": "Stage IVA Uterine Corpus Leiomyosarcoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Uterine Corpus Leiomyosarcoma",
+    "child": "Stage IVB Uterine Corpus Leiomyosarcoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type I Endometrial Adenocarcinoma",
+    "child": "Endometrial Endometrioid Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type I Endometrial Adenocarcinoma",
+    "child": "Endometrial Mucinous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type II Endometrial Adenocarcinoma",
+    "child": "Endometrial Clear Cell Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Type II Endometrial Adenocarcinoma",
+    "child": "Endometrial Serous Adenocarcinoma",
+    "levels": 7,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Endometrial Adenocarcinoma, Not Otherwise Specified",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Clear Cell Adenocarcinoma",
+    "child": "Recurrent Endometrial Clear Cell Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Clear Cell Adenocarcinoma",
+    "child": "Refractory Endometrial Clear Cell Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Grade 3 Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Low Grade Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Recurrent Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Endometrioid Adenocarcinoma",
+    "child": "Refractory Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mucinous Adenocarcinoma",
+    "child": "FIGO Grade 1 Endometrial Mucinous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mucinous Adenocarcinoma",
+    "child": "Recurrent Endometrial Mucinous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Mucinous Adenocarcinoma",
+    "child": "Refractory Endometrial Mucinous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Serous Adenocarcinoma",
+    "child": "Metastatic Endometrial Serous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Serous Adenocarcinoma",
+    "child": "Recurrent Endometrial Serous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Endometrial Serous Adenocarcinoma",
+    "child": "Refractory Endometrial Serous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA1 Ovarian Cancer",
+    "child": "FIGO Stage IIIA1(i) Ovarian Cancer",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "FIGO Stage IIIA1 Ovarian Cancer",
+    "child": "FIGO Stage IIIA1(ii) Ovarian Cancer",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Endometrial Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Serous Adenocarcinoma",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 8,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Low Grade Endometrial Endometrioid Adenocarcinoma",
+    "child": "FIGO Grade 1 Endometrial Endometrioid Adenocarcinoma",
+    "levels": 9,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Low Grade Endometrial Endometrioid Adenocarcinoma",
+    "child": "FIGO Grade 2 Endometrial Endometrioid Adenocarcinoma",
+    "levels": 9,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 9,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Endometrioid Adenocarcinoma",
+    "child": "Locally Advanced Endometrial Endometrioid Adenocarcinoma",
+    "levels": 9,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Endometrial Serous Adenocarcinoma",
+    "child": "Advanced Endometrial Serous Adenocarcinoma",
+    "levels": 9,
+    "collapsed": 1,
+    "nodeSize": 10
+  }
+]

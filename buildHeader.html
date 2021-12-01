@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Build headers</title>
+</head>
+<body>
+  <script>
+    fetch('columnInfo.json')
+        .then((res) => res.json())
+        .then((data) => {
+          buildHeaders(data)
+        });
+
+    function buildHeaders(data) {
+      let sortableFalseArr = ['star'];
+      let widthRef = {
+        phase: 100,
+        disease_names_lead: 400,
+        lead_disease_matches: 130,
+        disease_names: 400,
+        disease_matches: 100,
+        hiv_exc_matches: 120,
+        pt_inc_matches: 150,
+        pt_exc_matches: 160,
+        va_matches: 130,
+        nih_cc_matches: 130,
+        study_source: 130
+      }
+      let tempHeader = [
+        {text: '', value: 'id', filterLabel: 'ref', sortable: false, width: 50, show: true},
+        {text: 'Hide', value: 'hide', filterLabel: 'ref', width: 80, sortable: false, show: true},
+        {text: 'Star', filterLabel: 'ref', value: 'star', width: 80, sortable: false, show: true},
+        {text: 'NCT ID', filterLabel: 'ref', value: 'nct_id', fixed: true, width: 100, show: true},
+        {text: 'Title', filterLabel: 'ref', value: 'brief_title', width: 400, show: true}
+      ]
+
+      data.forEach(row => {
+        if (row.value !== 'star' && row.value !== 'nct_id' && row.value !== 'brief_title') {
+          let tempObj = {...row};
+          tempObj.show = !row.hidden;
+          if (sortableFalseArr.indexOf(row.value) !== -1) {
+            tempObj.sortable = false
+          }
+          //setup default width
+          tempObj.width = widthRef[row.value] == null ? 100 : widthRef[row.value]
+
+          tempHeader.push(tempObj)
+        }
+        
+      })
+
+      console.log(tempHeader)
+    }
+  </script>
+</body>
+</html>

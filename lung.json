@@ -1,0 +1,1501 @@
+[
+  { "child": "Lung Cancer", "levels": 0, "collapsed": 1, "nodeSize": 10 },
+  {
+    "parent": "Lung Cancer",
+    "child": "Bronchogenic Lung Cancer",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Lung Cancer by  Stage",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Lung Neuroendocrine Carcinoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Metastatic Lung Carcinoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Non-Small Cell Lung Cancer",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Recurrent Lung Cancer",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Refractory Lung Carcinoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Squamous Cell Lung Cancer",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer",
+    "child": "Unresectable Lung Carcinoma",
+    "levels": 1,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Bronchogenic Lung Cancer",
+    "child": "Superior Sulcus Lung Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Lung Non-Small Cell Cancer by  Stage",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Lung Small Cell Carcinoma by  Stage",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Lung Squamous Cell Carcinoma by  Stage",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Stage I Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Stage II Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Stage III Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Cancer by  Stage",
+    "child": "Stage IV Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Neuroendocrine Carcinoma",
+    "child": "Lung Large Cell Neuroendocrine Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Neuroendocrine Carcinoma",
+    "child": "Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Carcinoma",
+    "child": "Advanced Lung Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Carcinoma",
+    "child": "Locally Advanced Lung Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Carcinoma",
+    "child": "Metastatic Lung Cancer in the Central Nervous System",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Carcinoma",
+    "child": "Metastatic Lung Non-Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Carcinoma",
+    "child": "Metastatic Lung Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Carcinoma",
+    "child": "Metastatic Lung Squamous Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Adenosquamous Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Large Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Lung Adenocarcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Lung Non-Small Cell Cancer by  Stage",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Lung Sarcomatoid Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Metastatic Lung Non-Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Non-Small Cell Squamous Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Non-Squamous Non-Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Recurrent Non-Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Refractory Non-Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Resectable Lung Non-Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Lung Cancer",
+    "child": "Unresectable Lung Non-Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Lung Cancer",
+    "child": "Recurrent Lung Squamous Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Lung Cancer",
+    "child": "Recurrent Non-Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Lung Cancer",
+    "child": "Recurrent Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Carcinoma",
+    "child": "Refractory Lung Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Carcinoma",
+    "child": "Refractory Lung Squamous Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Carcinoma",
+    "child": "Refractory Non-Small Cell Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Squamous Cell Lung Cancer",
+    "child": "Lung Squamous Cell Carcinoma by  Stage",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Squamous Cell Lung Cancer",
+    "child": "Metastatic Lung Squamous Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Squamous Cell Lung Cancer",
+    "child": "Non-Small Cell Squamous Lung Cancer",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Squamous Cell Lung Cancer",
+    "child": "Recurrent Lung Squamous Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Squamous Cell Lung Cancer",
+    "child": "Refractory Lung Squamous Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Lung Carcinoma",
+    "child": "Unresectable Lung Non-Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Lung Carcinoma",
+    "child": "Unresectable Lung Small Cell Carcinoma",
+    "levels": 2,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Adenosquamous Lung Cancer",
+    "child": "Lung Adenosquamous Carcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Adenosquamous Lung Cancer",
+    "child": "Metastatic Lung Adenosquamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Adenosquamous Lung Cancer",
+    "child": "Recurrent Lung Adenosquamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Lung Carcinoma",
+    "child": "Advanced Lung Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Lung Carcinoma",
+    "child": "Advanced Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Lung Carcinoma",
+    "child": "Advanced Lung Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Large Cell Lung Cancer",
+    "child": "Lung Large Cell Carcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Large Cell Lung Cancer",
+    "child": "Recurrent Lung Large Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Lung Carcinoma",
+    "child": "Locally Advanced Lung Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Lung Carcinoma",
+    "child": "Locally Advanced Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Bronchioloalveolar Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Lepidic Predominant Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Lung Adenocarcinoma In Situ",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Lung Adenocarcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Metastatic Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Recurrent Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Refractory Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma",
+    "child": "Unresectable Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Large Cell Neuroendocrine Carcinoma",
+    "child": "Metastatic Lung Large Cell Neuroendocrine Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Lung Adenocarcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Lung Adenosquamous Carcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Lung Large Cell Carcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Stage I Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Stage II Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Stage III Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Non-Small Cell Cancer by  Stage",
+    "child": "Stage IV Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Small Cell Carcinoma by  Stage",
+    "child": "Stage III Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Small Cell Carcinoma by  Stage",
+    "child": "Stage IV Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Squamous Cell Carcinoma by  Stage",
+    "child": "Stage I Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Squamous Cell Carcinoma by  Stage",
+    "child": "Stage II Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Squamous Cell Carcinoma by  Stage",
+    "child": "Stage III Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Squamous Cell Carcinoma by  Stage",
+    "child": "Stage IV Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Cancer in the Central Nervous System",
+    "child": "Lung Carcinoma Metastatic in the Brain",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Carcinoma",
+    "child": "Advanced Lung Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Carcinoma",
+    "child": "Locally Advanced Lung Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Carcinoma",
+    "child": "Metastatic Lung Adenosquamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Carcinoma",
+    "child": "Metastatic Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Carcinoma",
+    "child": "Metastatic Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Small Cell Carcinoma",
+    "child": "Advanced Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Small Cell Carcinoma",
+    "child": "Locally Advanced Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Squamous Cell Carcinoma",
+    "child": "Advanced Lung Squamous Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Squamous Cell Carcinoma",
+    "child": "Metastatic Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Squamous Lung Cancer",
+    "child": "Metastatic Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Squamous Lung Cancer",
+    "child": "Recurrent Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Squamous Lung Cancer",
+    "child": "Refractory Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Small Cell Squamous Lung Cancer",
+    "child": "Unresectable Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Metastatic Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Recurrent Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Refractory Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Unresectable Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Lung Squamous Cell Carcinoma",
+    "child": "Recurrent Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Non-Small Cell Lung Cancer",
+    "child": "Recurrent Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Non-Small Cell Lung Cancer",
+    "child": "Recurrent Lung Adenosquamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Non-Small Cell Lung Cancer",
+    "child": "Recurrent Lung Large Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Non-Small Cell Lung Cancer",
+    "child": "Recurrent Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Non-Small Cell Lung Cancer",
+    "child": "Recurrent Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Small Cell Lung Cancer",
+    "child": "Recurrent Extensive Stage Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Small Cell Carcinoma",
+    "child": "Platinum-Resistant Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Small Cell Carcinoma",
+    "child": "Refractory Extensive Stage Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Squamous Cell Carcinoma",
+    "child": "Refractory Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Non-Small Cell Lung Cancer",
+    "child": "Refractory Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Non-Small Cell Lung Cancer",
+    "child": "Refractory Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Non-Small Cell Lung Cancer",
+    "child": "Refractory Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Extensive Stage Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Limited Stage Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Lung Small Cell Carcinoma by  Stage",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Metastatic Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Platinum-Sensitive Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Recurrent Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Refractory Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Small Cell Lung Cancer",
+    "child": "Unresectable Lung Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage I Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage I Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage IA Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage IA1 Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage IA2 Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage IA3 Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Lung Cancer",
+    "child": "Stage IB Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Lung Cancer",
+    "child": "Stage II Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Lung Cancer",
+    "child": "Stage II Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Lung Cancer",
+    "child": "Stage IIA Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Lung Cancer",
+    "child": "Stage IIB Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Lung Cancer",
+    "child": "Stage III Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Lung Cancer",
+    "child": "Stage III Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Lung Cancer",
+    "child": "Stage III Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Lung Cancer",
+    "child": "Stage IIIA Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Lung Cancer",
+    "child": "Stage IIIB Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Lung Cancer",
+    "child": "Stage IIIC Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Lung Cancer",
+    "child": "Stage IV Non-Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Lung Cancer",
+    "child": "Stage IV Small Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Lung Cancer",
+    "child": "Stage IV Squamous Cell Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Lung Cancer",
+    "child": "Stage IVA Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Lung Cancer",
+    "child": "Stage IVB Lung Cancer",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Lung Non-Small Cell Carcinoma",
+    "child": "Unresectable Lung Adenocarcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Lung Non-Small Cell Carcinoma",
+    "child": "Unresectable Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Unresectable Lung Non-Small Cell Carcinoma",
+    "child": "Unresectable Lung Non-Squamous Non-Small Cell Carcinoma",
+    "levels": 3,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Lung Non-Small Cell Carcinoma",
+    "child": "Advanced Non-Small Cell Squamous Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Lung Non-Small Cell Carcinoma",
+    "child": "Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Lung Squamous Cell Carcinoma",
+    "child": "Advanced Non-Small Cell Squamous Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Bronchioloalveolar Carcinoma",
+    "child": "Minimally Invasive Lung Mucinous Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extensive Stage Small Cell Lung Cancer",
+    "child": "Recurrent Extensive Stage Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extensive Stage Small Cell Lung Cancer",
+    "child": "Refractory Extensive Stage Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Extensive Stage Small Cell Lung Cancer",
+    "child": "Stage IV Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Limited Stage Small Cell Lung Cancer",
+    "child": "Stage IIIA Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Lung Non-Small Cell Carcinoma",
+    "child": "Locally Advanced Lung Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Lung Non-Small Cell Carcinoma",
+    "child": "Locally Advanced Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Lung Non-Small Cell Carcinoma",
+    "child": "Locally Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenocarcinoma by  Stage",
+    "child": "Stage IV Lung Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Adenosquamous Carcinoma by  Stage",
+    "child": "Stage IV Adenosquamous Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Large Cell Carcinoma by  Stage",
+    "child": "Stage IV Large Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Small Cell Carcinoma by  Stage",
+    "child": "Stage III Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Lung Small Cell Carcinoma by  Stage",
+    "child": "Stage IV Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Adenocarcinoma",
+    "child": "Advanced Lung Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Adenocarcinoma",
+    "child": "Locally Advanced Lung Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Adenosquamous Carcinoma",
+    "child": "Locally Advanced Lung Adenosquamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Large Cell Neuroendocrine Carcinoma",
+    "child": "Locally Advanced Lung Large Cell Neuroendocrine Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Squamous Carcinoma",
+    "child": "Advanced Non-Small Cell Squamous Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Small Cell Squamous Carcinoma",
+    "child": "Locally Advanced Lung Non-Small Cell Squamous Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Squamous Non-Small Cell Carcinoma",
+    "child": "Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Squamous Non-Small Cell Carcinoma",
+    "child": "Locally Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Squamous Non-Small Cell Carcinoma",
+    "child": "Metastatic Lung Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Non-Squamous Non-Small Cell Carcinoma",
+    "child": "Metastatic Lung Large Cell Neuroendocrine Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Small Cell Carcinoma",
+    "child": "Advanced Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Small Cell Carcinoma",
+    "child": "Locally Advanced Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Recurrent Small Cell Lung Cancer",
+    "child": "Recurrent Extensive Stage Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Small Cell Carcinoma",
+    "child": "Platinum-Resistant Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Refractory Lung Small Cell Carcinoma",
+    "child": "Refractory Extensive Stage Lung Small Cell Carcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Non-Small Cell Lung Cancer",
+    "child": "Stage IA Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Non-Small Cell Lung Cancer",
+    "child": "Stage IB Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage I Squamous Cell Lung Cancer",
+    "child": "Stage IB Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IA Lung Cancer",
+    "child": "Stage IA Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Lung Cancer",
+    "child": "Stage IB Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IB Lung Cancer",
+    "child": "Stage IB Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Non-Small Cell Lung Cancer",
+    "child": "Stage IIA Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Non-Small Cell Lung Cancer",
+    "child": "Stage IIB Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Squamous Cell Lung Cancer",
+    "child": "Stage IIA Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage II Squamous Cell Lung Cancer",
+    "child": "Stage IIB Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Lung Cancer",
+    "child": "Stage IIA Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIA Lung Cancer",
+    "child": "Stage IIA Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIB Lung Cancer",
+    "child": "Stage IIB Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIB Lung Cancer",
+    "child": "Stage IIB Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Non-Small Cell Lung Cancer",
+    "child": "Stage IIIA Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Non-Small Cell Lung Cancer",
+    "child": "Stage IIIB Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Small Cell Lung Cancer",
+    "child": "Stage IIIA Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Small Cell Lung Cancer",
+    "child": "Stage IIIB Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Squamous Cell Lung Cancer",
+    "child": "Stage IIIA Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Squamous Cell Lung Cancer",
+    "child": "Stage IIIB Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Lung Cancer",
+    "child": "Stage IIIA Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Lung Cancer",
+    "child": "Stage IIIA Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIA Lung Cancer",
+    "child": "Stage IIIA Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIB Lung Cancer",
+    "child": "Stage IIIB Non-Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIB Lung Cancer",
+    "child": "Stage IIIB Small Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IIIB Lung Cancer",
+    "child": "Stage IIIB Squamous Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Non-Small Cell Lung Cancer",
+    "child": "Stage IV Adenosquamous Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Non-Small Cell Lung Cancer",
+    "child": "Stage IV Large Cell Lung Cancer",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage IV Non-Small Cell Lung Cancer",
+    "child": "Stage IV Lung Adenocarcinoma",
+    "levels": 4,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Advanced Lung Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Locally Advanced Lung Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Locally Advanced Non-Squamous Non-Small Cell Lung Cancer",
+    "child": "Locally Advanced Lung Large Cell Neuroendocrine Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Adenocarcinoma",
+    "child": "Advanced Lung Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Adenocarcinoma",
+    "child": "Locally Advanced Lung Adenocarcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Metastatic Lung Large Cell Neuroendocrine Carcinoma",
+    "child": "Locally Advanced Lung Large Cell Neuroendocrine Carcinoma",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Small Cell Lung Cancer",
+    "child": "Stage IIIA Small Cell Lung Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  },
+  {
+    "parent": "Stage III Small Cell Lung Cancer",
+    "child": "Stage IIIB Small Cell Lung Cancer",
+    "levels": 5,
+    "collapsed": 1,
+    "nodeSize": 10
+  }
+]

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>saveCSV</title>
+    <script src="https://momentjs.com/downloads/moment.js"></script>
+  </head>
+  <body>
+    <script>
+      const data = [
+        { model: 'Samsung S7', chargers: '55', cases: '56', earphones: '57', scratched: '2', }, 
+        { model: 'Pixel XL', chargers: '77', cases: '78', earphones: '79', scratched: '4', }, 
+        { model: 'iPhone 7', chargers: '88', cases: '89', earphones: '90', scratched: '6', }
+      ];
+
+      // get keys as array
+      const keys = Object.keys(data[0]);
+
+      const itemsFormatted = [
+        keys.join(','),
+        data.map((row) => keys.map((key) => row[key]).join(',')).join('\n'),
+      ].join('\n');
+
+      console.log('itemsFormatted', itemsFormatted)
+
+      /* const csvBlob = new Blob([commaSeparatedString]);
+
+      const a2 = document.getElementById('a2');
+
+      a2.href = URL.createObjectURL(csvBlob); */
+
+      function exportCSVFile(items, fileTitle = 'emfact_search_csv') {
+        /* if (headers) {
+            items.unshift(headers);
+        } */
+        var exportedFilenmae = `${fileTitle}_${moment().format("YYYY-MM-DD")}.csv`;
+
+        var blob = new Blob([items], { type: 'text/csv;charset=utf-8;' });
+        if (navigator.msSaveBlob) { // IE 10+
+            navigator.msSaveBlob(blob, exportedFilenmae);
+        } else {
+          var link = document.createElement("a");
+          if (link.download !== undefined) { // feature detection
+            // Browsers that support HTML5 download attribute
+            var url = URL.createObjectURL(blob);
+            link.setAttribute("href", url);
+            link.setAttribute("download", exportedFilenmae);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+          }
+        }
+      }
+
+      exportCSVFile(itemsFormatted)
+    </script>
+  </body>
+</html>

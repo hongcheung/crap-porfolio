@@ -1,0 +1,27 @@
+let trialsHeader = [
+      {text: '', filterLabel: 'ref', value: 'id', sortable: false, width: 50, show: true},
+      {text: 'Hide', filterLabel: 'ref', value: 'hide', width: 80, sortable: false, show: true},
+      {text: 'Star', filterLabel: 'ref', value: 'star', width: 80, sortable: false, show: true},
+      {text: 'NCT ID', filterLabel: 'ref', value: 'nct_id', fixed: true, width: 100, show: true},
+      {text: 'Title', filterLabel: 'ref', value: 'brief_title', width: 400, show: true},
+      
+      {text: 'Phase', value: 'phase', width: 100, show: true},
+      {text: 'Disease(s) of Focus', value: 'disease_names_lead', width: 400, show: true},
+      {text: 'Focused Match', value: 'lead_disease_matches', width: 130, show: true},
+      {text: 'All Diseases', value: 'disease_names', width: 400, show: true},
+      {text: 'General Match', value: 'disease_matches', width: 100, show: true},
+      {text: 'Biomarker Exclusion', value: 'biomarker_exc_matches', show: true},
+      {text: 'Biomarker Inclusion', value: 'biomarker_inc_matches', show: true},
+      {text: 'HIV Exclusion', value: 'hiv_exc_matches', width: 120, show: true},
+      {text: 'Brain Mets', value: 'bmets_matches', show: true},
+      {text: 'PT Inclusion', value: 'pt_inc_matches', width: 150, show: true},
+      {text: 'PT Exclusion', value: 'pt_exc_matches', width: 160, show: true},
+      {text: 'PLT', value: 'plt_matches', width: 100, show: true},
+      {text: 'WBC', value: 'wbc_matches', width: 100, show: true},
+      {text: 'Performance Status', value: 'perf_matches', show: true},
+      {text: 'Sex', value: 'gender_matches', width: 100, show: true},
+      {text: 'Age', value: 'age_matches', width: 100, show: true},
+      {text: 'VA Sites', value: 'va_matches', width: 130, show: true},
+      {text: 'NIH CC', value: 'nih_cc_matches', width: 130, show: true},
+      {text: 'Study Source', value: 'study_source', width: 130, show: true}
+    ]

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>build col info</title>
+</head>
+<body>
+  <script>
+    let columnInfoObjArr = [];
+    let widthInfo = {
+      nct_id: 100,
+      brief_title: 300,
+      phase: 100,
+      disease_names_lead: 250,
+      disease_names: 300,
+    }
+    let width100 = ['nct_id', 'min_age_in_years', 'max_age_in_years', 'gender_criteria'];
+    let width130 = ['va_matches', 'nih_cc_matches', 'study_source'];
+    let centerArr = ['disease_names_lead', 'study_source']
+    let pre = [
+      {text: '', filterLabel: 'ref', value: 'id', sortable: false, width: 40, small_font: false, show: true, "tooltip": false},
+      {text: 'Hide', filterLabel: 'ref', value: 'hide', width: 40, sortable: false, small_font: false, show: true, "tooltip": false},
+      {text: 'Star', filterLabel: 'ref', value: 'star', align: 'center', width: 40, sortable: false, small_font: false, show: true, "tooltip": false}
+    ]
+    function buildColInfo(data) {
+      data.forEach((item, index) => {
+        if (item.value !== 'id') {
+          columnInfoObjArr.push({
+            ...item,
+            show: !item.hidden
+          })
+
+          //for width
+          if (item.value.includes('matches') || width100.indexOf(item.value) !== -1) {
+            columnInfoObjArr[index-1].width = 100;
+            columnInfoObjArr[index-1].align = 'center';
+          } else if (item.value.includes('_text')) {
+            columnInfoObjArr[index-1].width = 300;
+            columnInfoObjArr[index-1].align = 'center'
+          } else if (width130.indexOf(item.value) !== -1) {
+            columnInfoObjArr[index-1].width = 130;
+          } 
+        }
+      })
+
+      columnInfoObjArr = [...pre, ...columnInfoObjArr]
+
+      return columnInfoObjArr
+    }
+    fetch('columnInfo.json').then(res => res.json())
+      .then(data => {
+        console.log(data)
+        let finalColumnInfo =  buildColInfo(data)
+
+        //console.log('final', JSON.stringify(columnInfoObjArr))
+        console.log('final', finalColumnInfo)
+      })
+  </script>
+</body>
+</html>
