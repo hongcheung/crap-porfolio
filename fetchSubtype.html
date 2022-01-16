@@ -1,46 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>fetchSubtype</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.24.0/axios.min.js" integrity="sha512-u9akINsQsAkG9xjc1cnGF4zw5TFDwkxuc9vUp5dltDWYCSmyd0meygbvgXrlc/z7/o4a19Fb5V0OUE58J7dcyw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="js/renderjson.js"></script>
-</head>
-<body>
-  <div id="test"></div>
-  <script>
-    //axios.post('http://localhost:3002/prod/stage_for_types', {
-    axios.post('https://74upiohdxe.execute-api.us-east-1.amazonaws.com/prod/stage_for_types', {
-        display_name: ['Acute Lymphoblastic Leukemia (ALL)']
-    })
-      .then(res => {
-        renderjson.set_show_to_level(10);
-        document.getElementById("test").appendChild(
-          renderjson(res.data)
-        );
-      })
-      .catch(() => {
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fetchSubtype</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.24.0/axios.min.js"
+      integrity="sha512-u9akINsQsAkG9xjc1cnGF4zw5TFDwkxuc9vUp5dltDWYCSmyd0meygbvgXrlc/z7/o4a19Fb5V0OUE58J7dcyw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="js/renderjson.js"></script>
+  </head>
+  <body>
+    <div id="test"></div>
+    <script>
+      let defaultQuery = {
+        baseURL: 'https://d3lyo33f2q6j0f.cloudfront.net/api/v1/',
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+        params: {},
+        /* paramsSerializer(params) {
+        return new URLSearchParams(filterParams(params))
+      } */
+      };
+      //axios.post('http://localhost:3002/prod/stage_for_types', {
+      axios
+        .post(
+          'stage_for_types',
+          {
+            display_name: ['Acute Lymphoblastic Leukemia (ALL)'],
+          },
+          {
+            ...defaultQuery,
+          }
+        )
+        .then((res) => {
+          renderjson.set_show_to_level(10);
+          document.getElementById('test').appendChild(renderjson(res.data));
+        })
+        .catch(() => {
           setTimeout(() => {
             // retry
             //axios.get('https://74upiohdxe.execute-api.us-east-1.amazonaws.com/prod/subtype_for_maintype?display_name=Ampulla%20of%20Vater%20Cancer')
-            axios.post('https://74upiohdxe.execute-api.us-east-1.amazonaws.com/prod/stage_for_types', {
-              display_name: ['Acute Lymphoblastic Leukemia (ALL)']
-            })
-              .then(res => {
+            axios
+              .post(
+                'stage_for_types',
+                {
+                  display_name: ['Acute Lymphoblastic Leukemia (ALL)'],
+                },
+                {
+                  ...defaultQuery,
+                }
+              )
+              .then((res) => {
                 renderjson.set_show_to_level(10);
-                document.getElementById("test").appendChild(
-                  renderjson(res.data)
-                );
+                document
+                  .getElementById('test')
+                  .appendChild(renderjson(res.data));
               })
               .catch((error) => {
-                console.log('err', error)
-              })
-          }, 3000)
+                console.log('err', error);
+              });
+          }, 3000);
         });
 
-    /* axios.get('https://74upiohdxe.execute-api.us-east-1.amazonaws.com/prod/subtype_for_maintype?display_name=Ampulla%20of%20Vater%20Cancer')
+      /* axios.get('https://74upiohdxe.execute-api.us-east-1.amazonaws.com/prod/subtype_for_maintype?display_name=Ampulla%20of%20Vater%20Cancer')
       .then(res => {
         renderjson.set_show_to_level(10);
         document.getElementById("test").appendChild(
@@ -62,6 +90,6 @@
               })
           }, 3000)
         }); */
-  </script>
-</body>
+    </script>
+  </body>
 </html>

@@ -113,13 +113,16 @@
           }
         });
 
+        console.log(JSON.stringify(tempObj))
         renderjson.set_show_to_level(15);
         document.getElementById('test').appendChild(renderjson(tempObj));
       }
 
-      fetch('lung.json')
+      fetch('solid.json')
         .then((res) => res.json())
-        .then((data) => buildJsonObj(data));
+        .then((data) => {
+          buildJsonObj(data)
+        });
     </script>
   </body>
 </html>
